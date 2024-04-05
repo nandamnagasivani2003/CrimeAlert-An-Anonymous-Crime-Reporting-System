@@ -1,4 +1,4 @@
-This repository contains the code and resources for the "CrimeAlert" undertaken by Batch 4 of the 20CSM Major Projects program. Each project file is located within its respective directory.
+This repository contains the code and resources for the "CrimeAlert" undertaken by Batch 4 of the 20CSM Major Projects program.
 
 ## Description
 The **CrimeAlert** System is an IT-enabled framework designed to empower individuals to report suspicious activities or crimes to the authorities efficiently and securely.
