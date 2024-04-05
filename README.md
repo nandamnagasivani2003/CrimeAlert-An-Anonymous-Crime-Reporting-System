@@ -63,7 +63,6 @@ Check out the [Crime Alert System Demo](https://drive.google.com/file/d/1EtTVwEb
 - Data tampering prevention is ensured by verifying the hash code of all previous blocks before storing new records.
 
 ## Getting Started
-
 >You can download the project files [here](https://github.com/nandamnagasivani2003/CrimeAlert-An-Anonymous-Crime-Reporting-System/archive/refs/heads/master.zip)
 
 ### Deploying Smart Contract in Ethereum Tool
