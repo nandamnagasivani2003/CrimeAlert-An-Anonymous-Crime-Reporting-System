@@ -1,6 +1,5 @@
 # CrimeAlert-An Anonymous Crime Reportinng System
 This repository contains the code and resources for the "CrimeAlert" undertaken by Batch 4 of the 20CSM Major Projects program.
-
 ## Description
 
 The **CrimeAlert** System is an IT-enabled framework designed to empower individuals to report suspicious activities or crimes to the authorities efficiently and securely.Crime Alert serves as an anonymous crime reporting system, leverages blockchain technology for secure data storage and implements machine learning algorithms to detect potential false alarms. The system allows for anonymous reporting, ensuring user privacy, and includes features such as multimedia upload functionality, user feedback mechanisms, and support for user registration and authority login.
