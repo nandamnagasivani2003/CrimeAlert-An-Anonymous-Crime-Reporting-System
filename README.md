@@ -63,16 +63,13 @@ Check out the [Crime Alert System Demo](https://drive.google.com/file/d/1EtTVwEb
 - Data tampering prevention is ensured by verifying the hash code of all previous blocks before storing new records.
 
 ## Getting Started
-
 >You can download the project files [here](https://github.com/nandamnagasivani2003/CrimeAlert-An-Anonymous-Crime-Reporting-System/archive/refs/heads/master.zip)
 
 ### Deploying Smart Contract in Ethereum Tool
 
 1.First go inside ‘hello-eth/node-modules/bin’ folder and then find and double click on ‘runBlockchain.bat’ file to start Ethereum tool and then will get below screen
-
 2.In above screen Ethereum tool started with default private keys and account and now type command as ‘migrate’ and press enter key to deploy contract and then will get below page
 ![Screenshot3](https://github.com/Srija4/anonymousreport/blob/main/runtime%20pic.jpg)
-
 3.In above screen in white colour text can see ‘Smart Contract’ deployed and got contract address also and this address need to specify in python code to save and get details from Ethereum and in below screen showing python code calling smart contract using address
 
 To get started with the project, follow these steps:
@@ -82,7 +79,6 @@ To get started with the project, follow these steps:
 3. **Access the Application:** Open a web browser and navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000).
 4. **Follow On-Screen Instructions:** Follow the on-screen instructions to sign up, submit tips, and utilize other functionalities.
 ## Team Members
-
 - N.Nagasivani
 - A.Srija Reddy
 - M.Naga Sundeep
