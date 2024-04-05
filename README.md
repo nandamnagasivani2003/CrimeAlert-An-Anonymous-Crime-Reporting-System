@@ -79,7 +79,7 @@ To get started with the project, follow these steps:
 
 1. **Start the IPFS Server:** Execute `runIPFS.bat` to start the IPFS server.
 2. **Launch the Python Web Server:** Run `runServer.bat` to launch the Python web server.
-3. **Access the Application:** Open a web browser and navigate to [http://127.0.0.1:8000/index.html](http://127.0.0.1:8000/index.html).
+3. **Access the Application:** Open a web browser and navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000).
 4. **Follow On-Screen Instructions:** Follow the on-screen instructions to sign up, submit tips, and utilize other functionalities.
 ## Team Members
 
