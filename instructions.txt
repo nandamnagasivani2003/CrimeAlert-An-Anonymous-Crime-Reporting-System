@@ -1,0 +1,20 @@
+install python 3.7.0 and i did all settings inside hello-eth ethereum tool
+
+
+install node-v12.13.1-64.msi software 
+then install packages from requirements.txt file
+
+now double click on 'installNLTK.bat' file to install NLTK pakages and once you click then window will appear and in that window click on 'Download'
+button to install all packages and once installed then window will turn to green colour and then you close window and continue below process
+
+i did all setup just follow screens shots
+
+blockchain server can be start from hello-eth folder and server starting details are already given in screenshots
+
+After contract deployment in etherum black window you will get contract address under SmartContract section and that contract
+address you replace in CrimeTip/CrimeApp/views.py python file
+
+in CrimeTip/CrimeApp/views.py file you can see contract address like '0xd374Cb05bd6187D6cF905D7bBD85f2b704fBDD29' 
+this at line no 102 and 122 and just replace this with new contract address
+
+python application can be started from LRSPKI/runServer.bat, just double click on 'runServer.bat' file
