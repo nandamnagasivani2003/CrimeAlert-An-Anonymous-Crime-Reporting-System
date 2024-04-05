@@ -68,6 +68,7 @@ Check out the [Crime Alert System Demo](https://drive.google.com/file/d/1EtTVwEb
 ### Deploying Smart Contract in Ethereum Tool
 
 1.First go inside ‘hello-eth/node-modules/bin’ folder and then find and double click on ‘runBlockchain.bat’ file to start Ethereum tool and then will get below screen
+
 2.In above screen Ethereum tool started with default private keys and account and now type command as ‘migrate’ and press enter key to deploy contract and then will get below page
 ![Screenshot3](https://github.com/Srija4/anonymousreport/blob/main/runtime%20pic.jpg)
 3.In above screen in white colour text can see ‘Smart Contract’ deployed and got contract address also and this address need to specify in python code to save and get details from Ethereum and in below screen showing python code calling smart contract using address
