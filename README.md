@@ -5,6 +5,8 @@ This repository contains the code and resources for the "CrimeAlert" undertaken 
 
 The **CrimeAlert** System is an IT-enabled framework designed to empower individuals to report suspicious activities or crimes to the authorities efficiently and securely.Crime Alert serves as an anonymous crime reporting system, leverages blockchain technology for secure data storage and implements machine learning algorithms to detect potential false alarms. The system allows for anonymous reporting, ensuring user privacy, and includes features such as multimedia upload functionality, user feedback mechanisms, and support for user registration and authority login.
 
+To access the deployed CrimeAlert system, visit [CrimeAlert Deployment](https://example.com/crimealert) <span style="color: blue; text-decoration: underline;">here</span>.
+
 ## Screenshots
 
 Screenshots of the project's execution steps are as follows:
@@ -64,7 +66,7 @@ Check out the [Crime Alert System Demo](https://drive.google.com/file/d/1EtTVwEb
 
 ## Getting Started
 
->You can download the project files [here](https://github.com/20CSM-MAJOR-PROJECTS/PROJECT-BATCH-4/archive/refs/heads/master.zip)
+>You can download the project files [here](https://github.com/nandamnagasivani2003/CrimeAlert-An-Anonymous-Crime-Reporting-System/archive/refs/heads/master.zip)
 
 ### Deploying Smart Contract in Ethereum Tool
 
